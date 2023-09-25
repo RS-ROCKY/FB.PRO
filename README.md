@@ -18,5 +18,5 @@
 
 - cd FB.PRO
 
-- python fire.py
+- python Rabby.py
 
